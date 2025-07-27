@@ -18,7 +18,8 @@ A simple HTML project from [The Odin Project](https://www.theodinproject.com/les
 - `index.html` – homepage with recipe links 
 - `recipes/cookies.html`- cookies recipe 
 - `recipes/apple-pie.html`- apple pie recipe 
+- `recipes/vanilla-cake.html`- vanilla cake recipe 
 
 ## ✨ Outcome
 
-Helped me understand how static websites are structured and improved my HTML fundamentals.
+Review HTML fundamentals
