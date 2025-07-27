@@ -15,10 +15,8 @@ A simple HTML project from [The Odin Project](https://www.theodinproject.com/les
 
 ## 📄 Files
 
-- `index.html` – homepage with recipe links  
-- `lasagna.html` – lasagna recipe  
-- `pizza.html` – pizza recipe  
-- `salad.html` – salad recipe
+- `index.html` – homepage with recipe links 
+- `cookies.html`- cookies recipe 
 
 ## ✨ Outcome
 
