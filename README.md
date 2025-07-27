@@ -16,7 +16,8 @@ A simple HTML project from [The Odin Project](https://www.theodinproject.com/les
 ## 📄 Files
 
 - `index.html` – homepage with recipe links 
-- `cookies.html`- cookies recipe 
+- `recipes/cookies.html`- cookies recipe 
+- `recipes/apple-pie.html`- apple pie recipe 
 
 ## ✨ Outcome
 
