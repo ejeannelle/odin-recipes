@@ -11,7 +11,8 @@ A simple HTML project from [The Odin Project](https://www.theodinproject.com/les
 
 ## 🛠️ Tech Used
 
-- HTML5
+- HTML
+- CSS
 
 ## 📄 Files
 
